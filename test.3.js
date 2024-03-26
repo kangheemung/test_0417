@@ -16,4 +16,3 @@ process.stdin.on('end', function () {
   const S = input.trim();
   const lowercaseS = S.toLowerCase();
   console.log(lowercaseS);
-});
